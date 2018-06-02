@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dixit Patel</title>
-    <link>http://dixitpatel.github.io/</link>
+    <link>https://dixitpatel.github.io/</link>
     <description>Recent content on Dixit Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Jun 2018 11:58:06 +0200</lastBuildDate>
     
-	<atom:link href="http://dixitpatel.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dixitpatel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>High Performance Computing and Machine Learning</title>
-      <link>http://dixitpatel.github.io/2018/06/02/high-performance-computing-and-machine-learning/</link>
+      <link>https://dixitpatel.github.io/2018/06/02/high-performance-computing-and-machine-learning/</link>
       <pubDate>Sat, 02 Jun 2018 11:58:06 +0200</pubDate>
       
-      <guid>http://dixitpatel.github.io/2018/06/02/high-performance-computing-and-machine-learning/</guid>
+      <guid>https://dixitpatel.github.io/2018/06/02/high-performance-computing-and-machine-learning/</guid>
       <description>Equations are for eternity. 
 Equations are elegant. Their concise nature that captures the underlying complexity of a system to a degree that satisfies &amp;lsquo;observed realities&amp;rsquo; are what scientists and mathematicians consider beautiful. A lot of discovery process for such equations, over the past, took approaches that combined mathematical modeling and computational sciences. Advances in High Performance Computing (HPC) greatly affected this process. In the HPC world, you start with a hypothesis, form a theory over the hypothesis, and additionally run experiments and simulations to build mathematical models that eventually might lead to discovery or newer ideas to explore.</description>
     </item>
