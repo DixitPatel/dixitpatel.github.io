@@ -1,3 +1,8 @@
+a.hyperlink {
+  color: inherit;
+  text-decoration: underline;
+}
+
 body {
   width: 100%;
 }
@@ -356,7 +361,7 @@ code {
 #search-form-wrap {
   height: 40px;
   line-height: 40px;
-  padding: 12px 15px;
+  padding: 12px 57px;
 }
 .header-inner #logo,
 #main-nav {
@@ -1389,6 +1394,7 @@ ol.toc {
   break-inside: avoid-column;
   padding: 0;
   margin-bottom: 15px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.07);
 }
 .archive-article:before,
 .archive-article:after {
@@ -1456,6 +1462,8 @@ ol.toc {
   font-size: 1.6em;
   line-height: 1.4em;
   margin-bottom: 12px;
+  margin-top: 10px;
+  margin-left: 10px;
 }
 @media screen and (max-width: 559px) {
   .archive-article-title {
@@ -1466,6 +1474,8 @@ ol.toc {
 .archive-article-date {
   display: block;
   margin-top: 8px;
+  margin-left: 10px;
+  margin-bottom: 5px;
 }
 .layout-wrap-inner.list-categories ul {
   margin-left: 15px;
