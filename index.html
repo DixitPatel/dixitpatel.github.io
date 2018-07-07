@@ -30,7 +30,7 @@
 
 
 
-<meta property="og:updated_time" content="2018-06-03T00:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2018-07-06T00:00:00&#43;00:00"/>
 
 
 
@@ -181,7 +181,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        2
+        3
         <span></span>
       </div>
       <div class="article-info-block">
@@ -264,6 +264,137 @@
     <section id="main">
     
     
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://dixitpatel.github.io/2018/07/06/">
+    <h1 class="article-title" itemprop="name">
+        Distributed Fault-Tolerant Stack
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-07-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">Friday, Jul 6, 2018</time>
+        </div>
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                
+                <a class="article-category-link" href="https://dixitpatel.github.io/categories/distributed-systems">distributed-systems</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://dixitpatel.github.io/categories/golang">golang</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                Github : Distributed Stack in Golang 
+Most modern large-scale applications are distributed in nature and are designed around high-availability. A fundamental principle underlying such systems is that failure is inevitable. Having fault-tolerance built-in, essentially helps to mitigate the effects of such failures, which can be very critical depending on nature of the application. In the event of a failure of one or more underlying computer systems, we need a way to have the entire state of the application reach a consistent state before it can continue to operate.
+            </p>
+            <p class="article-more-link">
+                <a href="https://dixitpatel.github.io/2018/07/06/"> Read More
+                    
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a data-url="https://dixitpatel.github.io/2018/07/06/" data-id="9defd8f094f878866ce12e55a76c7101" class="article-share-link">
+        <i class="fa fa-share"></i>
+        
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
 
 <article class="article article-type-post" itemscope="" itemprop="blogPost">
     <div class="article-inner">
@@ -548,6 +679,32 @@ Equations are elegant. Their concise nature that captures the underlying complex
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://dixitpatel.github.io/2018/07/06/" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        
+                        <a class="article-category-link" href="https://dixitpatel.github.io/categories/distributed-systems">
+                        distributed-systems
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://dixitpatel.github.io/2018/07/06/" class="title">Distributed Fault-Tolerant Stack</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-07-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">Friday, Jul 6, 2018</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://dixitpatel.github.io/2018/06/03/" class="thumbnail">
                     
                         <span class="thumbnail-image thumbnail-none"></span>
@@ -610,6 +767,22 @@ Equations are elegant. Their concise nature that captures the underlying complex
     <h3 class="widget-title"></h3>
     <div class="widget">
         <ul class="category-list">
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://dixitpatel.github.io/categories/distributed-systems">
+                    distributed-systems
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://dixitpatel.github.io/categories/golang">
+                    golang
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
             
             <li class="category-list-item">
                 

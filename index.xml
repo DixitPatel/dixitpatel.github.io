@@ -6,10 +6,20 @@
     <description>Recent content on Dixit Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dixitpatel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributed Fault-Tolerant Stack</title>
+      <link>https://dixitpatel.github.io/2018/07/06/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/2018/07/06/</guid>
+      <description>Github : Distributed Stack in Golang 
+Most modern large-scale applications are distributed in nature and are designed around high-availability. A fundamental principle underlying such systems is that failure is inevitable. Having fault-tolerance built-in, essentially helps to mitigate the effects of such failures, which can be very critical depending on nature of the application. In the event of a failure of one or more underlying computer systems, we need a way to have the entire state of the application reach a consistent state before it can continue to operate.</description>
+    </item>
     
     <item>
       <title>How do we humans get to understand about hyperspace ?</title>
