@@ -17,8 +17,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/2018/07/06/</guid>
-      <description>Github : Distributed Stack in Golang 
-Most modern large-scale applications are distributed in nature and are designed around high-availability. A fundamental principle underlying such systems is that failure is inevitable. Having fault-tolerance built-in, essentially helps to mitigate the effects of such failures, which can be very critical depending on nature of the application. In the event of a failure of one or more underlying computer systems, we need a way to have the entire state of the application reach a consistent state before it can continue to operate.</description>
+      <description>I love exploring new programming languages. I abide by this new age wisdom confected by a small group of computer modernists, &amp;lsquo;no such thing as too many programming languages&amp;rsquo;. It amazes me to think about the variety and complexity of today&amp;rsquo;s software requirements and the abundance of available opportunity to innovate across academic disciplines. As part of this exploration, I decided to learn about Go programming language. I implemented a Distributed Fault-tolerant stack.</description>
     </item>
     
     <item>
@@ -39,6 +38,18 @@ Maybe we could develop an initial mathematical model based on the interactions b
       <guid>https://dixitpatel.github.io/2018/06/01/</guid>
       <description>Equations are for eternity. 
 Equations are elegant. Their concise nature that captures the underlying complexity of a system to a degree that satisfies &amp;lsquo;observed realities&amp;rsquo; are what scientists and mathematicians consider beautiful. A lot of discovery process for such equations, over the past, took approaches that combined mathematical modeling and computational sciences. Advances in High Performance Computing (HPC) greatly affected this process. In the HPC world, you start with a hypothesis, form a theory over the hypothesis, and additionally run experiments and simulations to build mathematical models that eventually might lead to discovery or newer ideas to explore.</description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://dixitpatel.github.io/wisdom/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/wisdom/quotes/</guid>
+      <description>I often come across inspirational content/quotes on the internet that I keep stockpiling into my Evernote. Below are tidbits from this diary of growing wisdom. The lessons and learning come hard, sometimes hitting home with as much recklessness as Roy Keane&amp;rsquo;s tackles on field hah! Hope you like them!
+ Maria Popova
+Do Lectures. I&amp;rsquo;ve always found her content on BrainPickings to be very thought provoking.
+    Allow yourself the uncomfortable luxury of changing your mind.</description>
     </item>
     
   </channel>

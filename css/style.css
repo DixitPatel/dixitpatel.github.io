@@ -656,7 +656,7 @@ code {
 #profile .inner .base-info #avatar {
   display: block;
   margin: 10px auto 20px;
-  width: 155px;
+  width: 180px;
   height: 250px;
   -webkit-filter: drop-shadow(2px 2px 2px #111);
   filter: drop-shadow(2px 2px 2px #111);
