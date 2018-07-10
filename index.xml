@@ -17,7 +17,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/2018/07/06/</guid>
-      <description>I like exploring new programming languages. I abide by this new age wisdom confected by a small group of computer modernists, &amp;lsquo;no such thing as too many programming languages&amp;rsquo;. It amazes me to think about the variety and complexity of today&amp;rsquo;s software requirements and the abundance of available opportunity to innovate across academic disciplines. As part of this exploration, I decided to learn about Go programming language. I implemented a Distributed Fault-tolerant stack.</description>
+      <description>I like exploring new programming languages. It amazes me to think about the variety and complexity of today&amp;rsquo;s software requirements and the abundance of available opportunity to innovate across academic disciplines. As part of this exploration, I decided to learn about Go programming language. I implemented a Distributed Fault-tolerant stack.  Most modern large-scale applications are distributed in nature and are designed around high-availability. A fundamental principle underlying such systems is that failure is inevitable.</description>
     </item>
     
     <item>
@@ -46,10 +46,9 @@ Equations are elegant. Their concise nature that captures the underlying complex
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/wisdom/quotes/</guid>
-      <description>I often come across inspirational content/quotes on the internet that I keep stockpiling into my Evernote. Below are tidbits from this diary of growing wisdom. The lessons and learning come hard, sometimes hitting home with as much recklessness as Roy Keane&amp;rsquo;s tackles on field hah! Hope you like them!
- Maria Popova
-Do Lectures. I&amp;rsquo;ve always found her content on BrainPickings to be very thought provoking.
-    Allow yourself the uncomfortable luxury of changing your mind.</description>
+      <description>I often come across inspirational content/quotes on various blog posts, HackerNews, reddit etc that I keep stockpiling into my Evernote. Below are tidbits from this diary of growing wisdom. The lessons and learning come hard, sometimes hitting home with as much recklessness as Roy Keane&amp;rsquo;s tackles on field hah! Hope you like them!
+ Bill Gates
+ The best way to prepare as a programmer is to write programs, and to study great programs that other people have written.</description>
     </item>
     
   </channel>

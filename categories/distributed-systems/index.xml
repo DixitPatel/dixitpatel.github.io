@@ -17,7 +17,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/2018/07/06/</guid>
-      <description>I like exploring new programming languages. I abide by this new age wisdom confected by a small group of computer modernists, &amp;lsquo;no such thing as too many programming languages&amp;rsquo;. It amazes me to think about the variety and complexity of today&amp;rsquo;s software requirements and the abundance of available opportunity to innovate across academic disciplines. As part of this exploration, I decided to learn about Go programming language. I implemented a Distributed Fault-tolerant stack.</description>
+      <description>I like exploring new programming languages. It amazes me to think about the variety and complexity of today&amp;rsquo;s software requirements and the abundance of available opportunity to innovate across academic disciplines. As part of this exploration, I decided to learn about Go programming language. I implemented a Distributed Fault-tolerant stack.  Most modern large-scale applications are distributed in nature and are designed around high-availability. A fundamental principle underlying such systems is that failure is inevitable.</description>
     </item>
     
   </channel>
