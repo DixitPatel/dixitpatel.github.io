@@ -17,7 +17,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/2018/07/06/</guid>
-      <description>I like exploring new programming languages. It amazes me to think about the variety and complexity of today&amp;rsquo;s software requirements and the abundance of available opportunity to innovate across academic disciplines. As part of this exploration, I decided to learn about Go programming language. I implemented a Distributed Fault-tolerant stack.  Most modern large-scale applications are distributed in nature and are designed around high-availability. A fundamental principle underlying such systems is that failure is inevitable.</description>
+      <description>It&amp;rsquo;s very exciting to read about all the variety and complexity of today&amp;rsquo;s software requirements and the abundant opportunity available to innovate across academic disciplines through good software. Programming languages are the bread and butter of the software world. Exploring a bit, I learned a few things about Go programming language and implemented a Distributed Fault-tolerant stack.  Most modern large-scale applications are distributed in nature and are designed around high-availability.</description>
     </item>
     
   </channel>
