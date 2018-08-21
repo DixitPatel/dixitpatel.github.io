@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Data Processing</title>
+      <link>https://dixitpatel.github.io/categories/data-processing/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/categories/data-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distributed Systems</title>
       <link>https://dixitpatel.github.io/categories/distributed-systems/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
@@ -25,6 +34,15 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gsoc</title>
+      <link>https://dixitpatel.github.io/categories/gsoc/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/categories/gsoc/</guid>
       <description></description>
     </item>
     
