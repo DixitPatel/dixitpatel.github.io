@@ -1,0 +1,23 @@
++++
+banner = ""
+categories = ['weather','parallel computing']
+date = "2018-07-06"
+description = ""
+images = []
+menu = ""
+tags = []
+title = "Performance Analysis and Optimization of the Weather Forecasting Model"
++++
+
+(2 hours)
+Background (5 mins)
+Scalability Analysis
+    Need graphs
+    MPI collectives
+    (+2 hours) New MPI 3 : Check only non-blocking collectives : WRF init : MPI_Ibcast MPI_Iallreduce
+Compiler Optimizations
+    Brief compiler flag opts
+    check --> 
+Hybrid Parallelism
+    What why 
+Perf Report ? ; NO

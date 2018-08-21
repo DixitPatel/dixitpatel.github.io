@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weather on Dixit Patel</title>
+    <link>https://dixitpatel.github.io/categories/weather/</link>
+    <description>Recent content in Weather on Dixit Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dixitpatel.github.io/categories/weather/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Performance Analysis and Optimization of the Weather Forecasting Model</title>
+      <link>https://dixitpatel.github.io/2018/07/06/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/2018/07/06/</guid>
+      <description>(2 hours) Background (5 mins) Scalability Analysis Need graphs MPI collectives (+2 hours) New MPI 3 : Check only non-blocking collectives : WRF init : MPI_Ibcast MPI_Iallreduce Compiler Optimizations Brief compiler flag opts check &amp;ndash;&amp;gt; Hybrid Parallelism What why Perf Report ? ; NO</description>
+    </item>
+    
+  </channel>
+</rss>
