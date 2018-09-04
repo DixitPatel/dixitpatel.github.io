@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dixitpatel.github.io/2018/08/26/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dixitpatel.github.io/2018/07/06/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url>
@@ -10,6 +15,11 @@
   <url>
     <loc>https://dixitpatel.github.io/2018/06/01/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dixitpatel.github.io/2018/04/21/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -40,7 +50,7 @@
   
   <url>
     <loc>https://dixitpatel.github.io/</loc>
-    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,7 +68,13 @@
   
   <url>
     <loc>https://dixitpatel.github.io/categories/high-performance-computing/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dixitpatel.github.io/categories/kafka/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,7 +86,7 @@
   
   <url>
     <loc>https://dixitpatel.github.io/post/</loc>
-    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,6 +96,12 @@
   
   <url>
     <loc>https://dixitpatel.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dixitpatel.github.io/categories/websockets/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

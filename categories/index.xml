@@ -49,9 +49,18 @@
     <item>
       <title>High Performance Computing</title>
       <link>https://dixitpatel.github.io/categories/high-performance-computing/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/categories/high-performance-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kafka</title>
+      <link>https://dixitpatel.github.io/categories/kafka/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/categories/kafka/</guid>
       <description></description>
     </item>
     
@@ -61,6 +70,15 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Websockets</title>
+      <link>https://dixitpatel.github.io/categories/websockets/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/categories/websockets/</guid>
       <description></description>
     </item>
     

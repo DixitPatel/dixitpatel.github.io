@@ -6,10 +6,19 @@
     <description>Recent content on Dixit Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dixitpatel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scaling analysis and Performance optimization of the Weather Forecasting Model at NCAR</title>
+      <link>https://dixitpatel.github.io/2018/08/26/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/2018/08/26/</guid>
+      <description>I spent another exciting summer working on yet another open source project. This time it was during my internship at NCAR (National Center for Atmospheric Science and Research). I worked on the Weather Forecasting Model, originally developed at NCAR and being used by over 30,000+ users all over the world. I did a lot of bash scripting (pertty basic though) and python programming as well to help me automate running jobs on Cheyenne Supercomputer and gather a lot of performance results.</description>
+    </item>
     
     <item>
       <title>Distributed Stack</title>
@@ -28,6 +37,15 @@
       <guid>https://dixitpatel.github.io/2018/06/01/</guid>
       <description>Equations are for eternity. 
 Equations are elegant. Their concise nature that captures the underlying complexity of a system to a degree that satisfies &amp;lsquo;observed realities&amp;rsquo; are what scientists and mathematicians consider beautiful. A lot of discovery process for such equations, over the past, took approaches that combined mathematical modeling and computational sciences. Advances in High Performance Computing (HPC) greatly affected this process. In the HPC world, you start with a hypothesis, form a theory over the hypothesis, and additionally run experiments and simulations to build mathematical models that eventually might lead to discovery or newer ideas to explore.</description>
+    </item>
+    
+    <item>
+      <title>Websockets with Apache Kafka and Spring</title>
+      <link>https://dixitpatel.github.io/2018/04/21/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/2018/04/21/</guid>
+      <description>I spent a considerable amount of time earlier, trying to fit together a basic solution using Spring Websockets and Kafka. Understanding each of these technologies individually is probably very straight-forward but using them in the Spring world might take you some time to figure out. I&amp;rsquo;m hoping some tips here would save you time and get started quickly for whatever application you are building. Firstly, here are some good resources (and probably only) to go through to understand basics of using Apache Kafka.</description>
     </item>
     
     <item>

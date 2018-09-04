@@ -6,10 +6,19 @@
     <description>Recent content in High Performance Computing on Dixit Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dixitpatel.github.io/categories/high-performance-computing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scaling analysis and Performance optimization of the Weather Forecasting Model at NCAR</title>
+      <link>https://dixitpatel.github.io/2018/08/26/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dixitpatel.github.io/2018/08/26/</guid>
+      <description>I spent another exciting summer working on yet another open source project. This time it was during my internship at NCAR (National Center for Atmospheric Science and Research). I worked on the Weather Forecasting Model, originally developed at NCAR and being used by over 30,000+ users all over the world. I did a lot of bash scripting (pertty basic though) and python programming as well to help me automate running jobs on Cheyenne Supercomputer and gather a lot of performance results.</description>
+    </item>
     
     <item>
       <title>High Performance Computing and Machine Learning</title>
