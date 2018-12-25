@@ -1,0 +1,14 @@
++++
+banner = ""
+categories = ['metascience','machine learning']
+date = "2018-11-25"
+description = ""
+images = []
+menu = ""
+tags = []
+title = "Where do we go from here ?"
++++
+Worrying about AI and Automation seems to have established itself firmly in our current generation's psyche. Whether or not the threat is real, there are some very valid arguments on both sides that make it ever so interesting to think about how science progresses in the next decade. Network Science is one of the fields I've studied to some extent during my Master's that peaked my interest in this question of correlation of technological progress with human progress in itself.  
+<br><br> Since innovation and scientific breakthroughs are what directly shape our society, the question of what models can 'fit' this progress and can we get better at predicting discoveries is rather an important one. But research (<a href="">here</a>) has shown that such elements of scientific research are inherently very hard to predict and we can hardly every get an accurate model of what the future might look like. For eg if we are to answer the question of whether the risk of automation is a real one, know that most of the scientific breakthroughs can be attributed to the research being done in various fields at our academic institutions and that the facult doing any kind of research plays an important role. Conventional wisdom then follows that the productivity of a faculty, in terms of quantity and quality of publishing papers, follows a canonical trajectory as shown in the image here. But the hiring of such faculty at the elite and non-elite institutions can potentially have a negative impact on the way we do research. As Prof. Aaron Clauset mentions in this talk <a href=""> here</a>, citations and publications for a paper are prone to feedback loops (eg : the assumption that recent success of a paper predicts future success of writing more impactful papers,etc). The measure of success of a faculty should rather be insusceptible to these feedback loops as discoveries are inherently unpredictable.
+Quote : If discovery is inherently unpredictible, better to cultivate a diverse scientific ecosystem than try to automate its prediction
+

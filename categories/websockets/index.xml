@@ -17,7 +17,7 @@
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dixitpatel.github.io/2018/04/21/</guid>
-      <description>I spent a considerable amount of time earlier, trying to fit together a basic solution using Spring Websockets and Kafka. Understanding each of these technologies individually is probably very straight-forward but using them in the Spring world might take you some time to figure out. I&amp;rsquo;m hoping some tips here would save you time and get started quickly for whatever application you are building. Firstly, here are some good resources (and probably only) to go through to understand basics of using Apache Kafka.</description>
+      <description>I&amp;rsquo;ve spent considerable amount of time earlier, trying to fit together a basic solution using Spring Websockets and Kafka. Understanding each of these technologies individually is probably very straight-forward but using them in the Spring world might take you some time to figure out. I&amp;rsquo;m hoping some tips here would save you time and get started quickly for whatever application you are building. Firstly, here are some good resources (and probably only) to go through to understand basics of using Apache Kafka.</description>
     </item>
     
   </channel>

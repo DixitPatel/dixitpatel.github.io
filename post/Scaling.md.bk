@@ -1,0 +1,20 @@
++++
+banner = ""
+categories = ['distributed-systems','scalability']
+date = "2018-07-06"
+description = ""
+images = []
+menu = ""
+tags = []
+title = "All things scaled"
++++
+Here are some talks/seminars that I've enjoyed watching (and re-watching) in the past for the sheer amount of wisdom thrown at the you in the short bounds of your regular average tech interview time. 
+Brace yourself for some silicon wisdom !
+
+Blitscaling Satya : https://www.youtube.com/watch?v=HvO9G4h5vsc
+Blitzscaling Brain Cheesky
+Scaling Twitter
+Jeff Dean large scale system
+Ajay Bangra Mastercard Stanford
+Eric Schmidt : GSB
+Vinod Khosla : 
